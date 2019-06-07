@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: pages/about/
 title: "About Michael Rose"
 date: 2016-08-26
 last_modified_at: 2018-03-22T10:19:56-04:00
