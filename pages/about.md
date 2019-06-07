@@ -8,7 +8,7 @@ image:
   path: /assets/pics/mypic.jpg
   width: 1600
   height: 640
-  feature: *image
+  
 toc: true
 ---
 
