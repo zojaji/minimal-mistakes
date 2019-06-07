@@ -8,11 +8,11 @@ toc_icon: "cog"
 ---
 **Requirements:**
 
-2 base stations
+2 base stations<br />
+2 base stations power adapters<br />
+2 mount brackets<br />
 
-2 base stations power adapters
-
-2 mount brackets
-
-
-1. Plan your play area  
+1. Plan your play area.
+  * room-scale
+    `` Min. 2m * 1.5m
+    `` Max. 6m * 6m
