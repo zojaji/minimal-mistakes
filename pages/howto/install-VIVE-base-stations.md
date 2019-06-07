@@ -1,6 +1,6 @@
 ---
 title: How to install HTC VIVE Pro base stations
-layout: splash
+layout: posts
 
 toc: true
 toc_label: "My Table of Contents"
