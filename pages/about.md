@@ -1,11 +1,11 @@
 ---
 permalink: pages/about/
-title: "About Michael Rose"
-date: 2016-08-26
-last_modified_at: 2018-03-22T10:19:56-04:00
-excerpt: "Michael Rose is just another boring, tattooed, time traveling designer from Buffalo New York."
+title: "About Sahba Zojaji"
+date: 2019-06-07
+last_modified_at: 2019-06-07T10:00:00-01:00
+excerpt: "Sahba is a Marie-Curie ITN PhD fellow of Computer Science at the KTH University, Sweden, from Mashhad Iran."
 image:
-  path: &image /assets/images/about-michael-collage-2016.jpg
+  path: &image /assets/images/my-pic.jpg
   width: 1600
   height: 640
   feature: *image
