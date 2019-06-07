@@ -1,5 +1,5 @@
 ---
-permalink: pages/about/
+permalink: pages/about
 title: "About Sahba Zojaji"
 date: 2019-06-07
 last_modified_at: 2019-06-07T10:00:00-01:00
