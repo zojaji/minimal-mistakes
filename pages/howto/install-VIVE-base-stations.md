@@ -6,6 +6,7 @@ toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/vivebasestation.jpg){: .align-right}
 **Requirements:**
 
 2 base stations<br />
