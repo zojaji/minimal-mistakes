@@ -13,6 +13,9 @@ toc_icon: "cog"
 2 mount brackets<br />
 
 1.  Plan your play area.
-    * room-scale
+    * Room-scale
       * Min. 2m * 1.5m
       * Max. 6m * 6m
+    * Standing/Seated
+      *  no minimum size requirement.
+2.  
