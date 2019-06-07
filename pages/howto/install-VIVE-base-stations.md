@@ -8,7 +8,10 @@ toc_icon: "cog"
 ---
 **Requirements:**
 2 base stations
+
 2 base stations power adapters
+
 2 mount brackets
+
 
 1. Plan your play area  
